@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfinal_homework_on_react_using_the_backend_training=self.webpackChunkfinal_homework_on_react_using_the_backend_training||[]).push([[38],{38:function(n,e,i){i.r(e),i.d(e,{default:function(){return t}});var r=i(184);function t(){return(0,r.jsx)("div",{children:(0,r.jsx)("h1",{children:"Hello Log In"})})}}}]);
+//# sourceMappingURL=38.64ca63c1.chunk.js.map
