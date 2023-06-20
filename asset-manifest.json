@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/final-homework-on-react-using-the-backend-training/static/css/main.7acaea2f.css",
+    "main.js": "/final-homework-on-react-using-the-backend-training/static/js/main.07d3183d.js",
+    "index.html": "/final-homework-on-react-using-the-backend-training/index.html",
+    "main.7acaea2f.css.map": "/final-homework-on-react-using-the-backend-training/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/final-homework-on-react-using-the-backend-training/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
