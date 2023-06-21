@@ -1,19 +1,21 @@
 {
   "files": {
     "main.css": "/final-homework-on-react-using-the-backend-training/static/css/main.cd2e038f.css",
-    "main.js": "/final-homework-on-react-using-the-backend-training/static/js/main.b503f12d.js",
+    "main.js": "/final-homework-on-react-using-the-backend-training/static/js/main.b653ee8f.js",
     "static/js/415.b155727c.chunk.js": "/final-homework-on-react-using-the-backend-training/static/js/415.b155727c.chunk.js",
     "static/js/427.94695f82.chunk.js": "/final-homework-on-react-using-the-backend-training/static/js/427.94695f82.chunk.js",
     "static/js/781.c6d1abb4.chunk.js": "/final-homework-on-react-using-the-backend-training/static/js/781.c6d1abb4.chunk.js",
+    "static/js/273.2a649150.chunk.js": "/final-homework-on-react-using-the-backend-training/static/js/273.2a649150.chunk.js",
     "index.html": "/final-homework-on-react-using-the-backend-training/index.html",
     "main.cd2e038f.css.map": "/final-homework-on-react-using-the-backend-training/static/css/main.cd2e038f.css.map",
-    "main.b503f12d.js.map": "/final-homework-on-react-using-the-backend-training/static/js/main.b503f12d.js.map",
+    "main.b653ee8f.js.map": "/final-homework-on-react-using-the-backend-training/static/js/main.b653ee8f.js.map",
     "415.b155727c.chunk.js.map": "/final-homework-on-react-using-the-backend-training/static/js/415.b155727c.chunk.js.map",
     "427.94695f82.chunk.js.map": "/final-homework-on-react-using-the-backend-training/static/js/427.94695f82.chunk.js.map",
-    "781.c6d1abb4.chunk.js.map": "/final-homework-on-react-using-the-backend-training/static/js/781.c6d1abb4.chunk.js.map"
+    "781.c6d1abb4.chunk.js.map": "/final-homework-on-react-using-the-backend-training/static/js/781.c6d1abb4.chunk.js.map",
+    "273.2a649150.chunk.js.map": "/final-homework-on-react-using-the-backend-training/static/js/273.2a649150.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd2e038f.css",
-    "static/js/main.b503f12d.js"
+    "static/js/main.b653ee8f.js"
   ]
 }
